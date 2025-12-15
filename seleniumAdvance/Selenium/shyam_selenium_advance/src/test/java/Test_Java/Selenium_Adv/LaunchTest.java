@@ -11,8 +11,8 @@ import org.testng.annotations.Parameters;
 public class LaunchTest {
 
 
-	public static String username = "shyamkandasamy";
-    public static String access_key = "LT_VhRK9yj6MwEHSiykkHh1CfMlUkMLOaa78JEcMD9I1NPt8zr";
+	public static String username = "shyamsundar2106";
+    public static String access_key = "LT_DYrBgOTDJU9hvSvJSgBARxjHKFhhy63noOztrbWROiam83G";
     public RemoteWebDriver driver = null;
     String hub = "@hub.lambdatest.com/wd/hub";
     protected WebDriverWait wait;
